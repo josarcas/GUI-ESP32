@@ -1,6 +1,12 @@
 ESP-IDF template app
 ====================
 
+Desarrollo de interfaz grafica para la plataforma ESP32 con pantalla TFT 3.5 inch con comunicación SPI, soporte de memoria microSD y una memoria EEPROM para guardar datos importantes
+
+![image](https://user-images.githubusercontent.com/52707509/153319746-111e7ec5-1604-4f4e-98df-f84d955b0f4a.png)
+
+
+
 This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
 
 Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for getting started instructions.
